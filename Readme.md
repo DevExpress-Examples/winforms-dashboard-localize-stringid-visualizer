@@ -16,3 +16,7 @@ This example illustrates how to use the approach described in the following arti
 ## Documentation
 
 - [Localizer Objects](https://docs.devexpress.com/Dashboard/400834/winforms-dashboard/general-information/localization#localizer-objects)
+
+## More Examples
+
+-[WPF Dashboard Control - Localized String ID Visualizer](https://github.com/DevExpress-Examples/wpf-dashboard-localized-stringid-visualizer)
