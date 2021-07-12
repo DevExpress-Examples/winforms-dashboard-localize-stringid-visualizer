@@ -19,4 +19,4 @@ This example illustrates how to use the approach described in the following arti
 
 ## More Examples
 
--[WPF Dashboard Control - Localized String ID Visualizer](https://github.com/DevExpress-Examples/wpf-dashboard-localized-stringid-visualizer)
+- [WPF Dashboard Control - Localized String ID Visualizer](https://github.com/DevExpress-Examples/wpf-dashboard-localized-stringid-visualizer)
