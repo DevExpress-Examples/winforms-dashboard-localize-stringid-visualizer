@@ -3,13 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830583)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [DesignerForm1.cs](./CS/WinForms_Localizer/WinForms_Localizer/DesignerForm1.cs)
-* [MyDashboardCoreLocalizer.cs](./CS/WinForms_Localizer/WinForms_Localizer/MyDashboardCoreLocalizer.cs)
-* [MyDashboardWinLocalizer.cs](./CS/WinForms_Localizer/WinForms_Localizer/MyDashboardWinLocalizer.cs)
-<!-- default file list end -->
 
 # Dashboard for WinForms - Localized String ID Visualizer
 
@@ -17,6 +10,11 @@ This example illustrates how to use the approach described in the following arti
 
 ![Screenshot](./images/localizer.png)
 
+## Files to Review
+
+* [DesignerForm1.cs](./CS/WinForms_Localizer/WinForms_Localizer/DesignerForm1.cs)
+* [MyDashboardCoreLocalizer.cs](./CS/WinForms_Localizer/WinForms_Localizer/MyDashboardCoreLocalizer.cs)
+* [MyDashboardWinLocalizer.cs](./CS/WinForms_Localizer/WinForms_Localizer/MyDashboardWinLocalizer.cs)
 
 ## Documentation
 
