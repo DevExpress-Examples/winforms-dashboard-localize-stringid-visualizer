@@ -1,27 +1,22 @@
-﻿Imports System
-Imports System.Collections.Generic
-Imports System.Linq
+Imports System
 Imports System.Windows.Forms
 Imports DevExpress.UserSkins
 Imports DevExpress.Skins
 
 Namespace WinForms_Localizer
-    Friend NotInheritable Class Program
 
-        Private Sub New()
-        End Sub
+    Friend Module Program
 
         ''' <summary>
         ''' The main entry point for the application.
         ''' </summary>
-        <STAThread> _
-        Shared Sub Main()
-            Application.EnableVisualStyles()
+        <STAThread>
+        Sub Main()
+            Call Application.EnableVisualStyles()
             Application.SetCompatibleTextRenderingDefault(False)
-
-            BonusSkins.Register()
-            SkinManager.EnableFormSkins()
-            Application.Run(New DesignerForm1())
+            Call BonusSkins.Register()
+            Call SkinManager.EnableFormSkins()
+            Call Application.Run(New DesignerForm1())
         End Sub
-    End Class
+    End Module
 End Namespace
