@@ -11,7 +11,7 @@ This example illustrates how to use the approach described in the [How to: Local
 ![Screenshot](https://github.com/DevExpress-Examples/winforms-dashboard-localize-stringid-visualizer/blob/18.1.3%2B/images/localizer.png)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-localize-stringid-visualizer&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-localize-stringid-visualizer&~~~was_helpful=no)
 
